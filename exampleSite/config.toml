@@ -1,4 +1,4 @@
-baseURL = "geo-analysis.netlify.app"
+baseURL = "https://geo-analysis.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
