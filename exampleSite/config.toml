@@ -29,7 +29,7 @@ weight = 2
 [[menu.main]]
 URL = "contact"
 name = "문의하기"
-weight = 4
+weight = 3
 # [[menu.main]]
 # URL = "sample-page"
 # name = "Sample Page"
@@ -44,6 +44,7 @@ heading = "기술을 통해 공간정보 디지털 격차를 줄입니다."
 image = "images/main.jpg"
 [params.blog]
 heading = "공간정보 빅데이터 분석 플랫폼 블로그입니다."
+enable = false
 [params.call_to_action]
 button_label = "문의"
 button_url = "contact"
@@ -60,7 +61,7 @@ copyright = "Copyright &copy; 2021 [공간정보 빅데이터 분석 플랫폼](
 hours = ""
 title = "공간정보 빅데이터 분석 플랫폼"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
