@@ -19,6 +19,7 @@
   </figure>
   {{end}}
 
+  {{ if .Site.Params.blog.enable }}
   <div class="post-inner thin">
     <div class="entry-content">
       {{ with .Site.Params.blog.heading }}
@@ -44,7 +45,8 @@
         </div>
         {{ end }}
       </div>
-
+      {{ end }}
+      
       {{ if .Site.Params.call_to_action.enable }}
       {{ with .Site.Params.call_to_action }}
       <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
