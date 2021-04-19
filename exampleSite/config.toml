@@ -13,27 +13,19 @@ unsafe = true
 [[menu.desktop]]
 URL = "contact"
 name = "문의하기"
-weight = 1
-[[menu.main]]
-URL = "/"
-name = "홈"
-weight = 1
-[[menu.main]]
-URL = "about"
-name = "회사소개"
 weight = 2
-# [[menu.main]]
-# URL = "blog"
-# name = "블로그"
-# weight = 3
 [[menu.main]]
 URL = "contact"
 name = "문의하기"
 weight = 3
-# [[menu.main]]
-# URL = "sample-page"
-# name = "Sample Page"
-# weight = 5
+[[menu.main]]
+URL = "about"
+name = "회사소개"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "홈"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -43,8 +35,8 @@ description = "공간정보 디지털 격차를 줄입니다."
 heading = "기술을 통해 공간정보 디지털 격차를 줄입니다."
 image = "images/main.jpg"
 [params.blog]
-heading = "공간정보 빅데이터 분석 플랫폼 블로그입니다."
 enable = false
+heading = "공간정보 빅데이터 분석 플랫폼 블로그입니다."
 [params.call_to_action]
 button_label = "문의"
 button_url = "https://forms.gle/sbTNNVR3zgY2HRvE6"

@@ -1,6 +1,9 @@
 ---
 title: 회사 소개
 description: 기술로 공간정보 디지털 격차를 줄입니다.
+menu:
+  desktop:
+    weight: 1
 
 ---
 # 미션
