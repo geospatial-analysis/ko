@@ -30,9 +30,9 @@ weight = 1
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Joongseob Kim"
-description = "공간정보 디지털 격차를 줄입니다."
+description = "공간정보 격차를 줄입니다."
 [params.banner]
-heading = "기술을 통해 공간정보 디지털 격차를 줄입니다."
+heading = "기술을 통해 공간정보 격차를 줄입니다."
 image = "images/main.jpg"
 [params.blog]
 enable = false
@@ -48,7 +48,7 @@ enable = true
 expire_days = 2
 [params.footer]
 address = "마포구 <br> 서울, 대한민국"
-content = "기술을 통해 공간정보 디지털 격차를 줄입니다."
+content = "기술을 통해 공간정보 격차를 줄입니다."
 copyright = "Copyright &copy; 2021 [공간정보 빅데이터 분석 플랫폼](https://geo-analysis.netlify.app)"
 hours = ""
 title = "공간정보 빅데이터 분석 플랫폼"
