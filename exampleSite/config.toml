@@ -7,7 +7,7 @@ languageName = "Ko"
 paginate = "6"
 summaryLength = "10"
 theme = "twentytwenty"
-title = "공간정보 빅데이터 분석 "
+title = "공간정보 빅데이터 분석 플랫폼"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
@@ -15,17 +15,25 @@ URL = "contact"
 name = "문의하기"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "문의하기"
-weight = 3
+URL = "/"
+name = "홈"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "회사소개"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "홈"
-weight = 1
+URL = "blog"
+name = "블로그"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "문의하기"
+weight = 4
+[[menu.main]]
+URL = "sample-page"
+name = "Sample Page"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
