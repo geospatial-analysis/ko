@@ -22,18 +22,18 @@ weight = 1
 URL = "about"
 name = "회사소개"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "블로그"
-weight = 3
+# [[menu.main]]
+# URL = "blog"
+# name = "블로그"
+# weight = 3
 [[menu.main]]
 URL = "contact"
 name = "문의하기"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
+# [[menu.main]]
+# URL = "sample-page"
+# name = "Sample Page"
+# weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
