@@ -1,10 +1,7 @@
 ---
-title: "Contact"
-bg_image: "images/2020-landscape-2.png"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: 문의하기
+bg_image: images/2020-landscape-2.png
+description: 문의하기
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+---
+공간정보 활용에 궁금하신 사항은 문의주세요
