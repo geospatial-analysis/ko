@@ -40,7 +40,7 @@ heading = "공간정보 빅데이터 분석 플랫폼 블로그입니다."
 [params.call_to_action]
 button_label = "문의"
 button_url = "https://forms.gle/sbTNNVR3zgY2HRvE6"
-content = "공간정보 활용에 궁금하신 사항은 문의주세요."
+content = "공간정보 활용 및 회사에 궁금하신 사항은 문의주세요."
 enable = true
 title = "문의하기"
 [params.cookies]
