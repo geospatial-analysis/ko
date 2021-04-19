@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Twenty Twenty Hugo"
+baseURL = "geo-analysis.netlify.app"
+title = "공간정보 빅데이터 분석 "
 theme = "twentytwenty"
-languageName = "En"
-languageCode = "en-us"
+languageName = "Ko"
+languageCode = "ko-kr"
 # post pagination
 paginate = "6"
 # post excerpt
@@ -34,22 +34,22 @@ author = "author"
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "홈"
 URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "회사소개"
 URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "블로그"
 URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "문의하기"
 URL = "contact"
 weight = 4
 
@@ -60,7 +60,7 @@ weight = 5
 
 # only desktop menu
 [[menu.desktop]]
-name = "Contact"
+name = "문의하기"
 URL = "contact"
 weight = 1
 
@@ -68,8 +68,8 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "공간정보 디지털 격차를 줄입니다."
+author = "Joongseob Kim"
 
 # cookies
 [params.cookies]
@@ -78,19 +78,19 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+heading = "기술을 통해 공간정보 디지털 격차를 줄입니다."
+image = "images/main.jpg"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "공간정보 빅데이터 분석 플랫폼 블로그입니다."
 
 # call to action
 [params.call_to_action]
 enable = true
-title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
+title = "문의하기"
+content = "공간정보 활용에 궁금하신 사항은 문의주세요."
+button_label = "문의"
 button_url = "contact"
 
 # gallery
@@ -106,11 +106,11 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+title = "공간정보 빅데이터 분석 플랫폼"
+content = "기술을 통해 공간정보 디지털 격차를 줄입니다."
+address = "마포구 <br> 서울, 대한민국"
+hours = ""
+copyright = "Copyright &copy; 2021 [공간정보 빅데이터 분석 플랫폼](https://geo-analysis.netlify.app)"
 
 ############################# social site ########################
 [params.social]
