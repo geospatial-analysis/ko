@@ -1,9 +1,18 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: 회사 소개
+description: 기술로 공간정보 디지털 격차를 줄입니다.
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+# 미션
+
+#### 기술을 통해 누구나 쉽게 공간정보 데이터를 활용한 의사결정이 가능하도록 돕습니다.
+
+# 핵심가치
+
+* **단순성(Simplicity)**
+
+  단순하고 직관적인 데이터 제공으로, 데이터 활용의 진입 장벽을 낮춥니다.
+* **신뢰성(Credibility)**  
+  명확한 데이터 원천 표기와, 꾸준한 데이터 관리로 데이터 신뢰성을 높입니다.
+* **지속성(Sustainability)**  
+  임직원이 지역공동체와 함께 공간정보를 활용한 혁신을 만들어가도록 지속적으로 성장해 나갑니다.
