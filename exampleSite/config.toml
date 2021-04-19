@@ -13,10 +13,12 @@ unsafe = true
 [[menu.desktop]]
 URL = "contact"
 name = "문의하기"
+url = "https://forms.gle/iDbgNN7C9WeTyzXB8"
 weight = 2
 [[menu.main]]
 URL = "contact"
 name = "문의하기"
+url = "https://forms.gle/iDbgNN7C9WeTyzXB8"
 weight = 3
 [[menu.main]]
 URL = "about"
